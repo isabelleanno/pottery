@@ -91,6 +91,8 @@ header h3 {
 }
 header h3 {
   clear: right;
+  margin-top: 10px;
+  font-size: 15px;
 }
 
 header hr {
@@ -107,10 +109,7 @@ header h1 {
   font-size: 40px;
   padding-top: 10px;
 }
-header h3 {
-  margin-top: 10px;
-  font-size: 15px;
-}
+
 nav {
   background-color: #789984;
 }
@@ -136,14 +135,13 @@ footer {
   margin-top: 10px;
 }
 footer a {
-  font-size: 11px;
+  font-size: 15px;
   color: #f2efe7;
   margin: 0;
 }
 footer p {
   text-align: center;
-  font-style: italic;
-  font-size: 11px;
+  font-size: 15px;
   margin: 0;
   margin-top: 10px;
 }
